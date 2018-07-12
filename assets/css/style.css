@@ -49,18 +49,23 @@ nav {
 #navLinks {
     float: right;
     text-align: center;
-    
+
 }
 
 #aboutLink {
     border-right: 1px solid teal;
     padding-right: 7px;
+    text-decoration: none;
 }
 
 #contactLink {
     border-right: 1px solid teal;
     padding-right: 7px;
+    text-decoration: none;
+}
 
+#portfolioLink {
+    text-decoration: none;
 }
 
 #profileImg {
