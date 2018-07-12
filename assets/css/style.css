@@ -133,3 +133,29 @@ h2 {
     margin-bottom: 8px;
     margin-top: 8px;
 }
+
+#nameInput {
+    height: 20px;
+    width: 950px;
+}
+
+#emailInput {
+    height: 20px;
+    width: 950px;
+}
+
+#msgInput {
+    height: 75px;
+    width: 950px;
+    margin-bottom: 8px;
+}
+
+#submitBtn {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(0, 153, 147);
+    color: rgb(248, 247, 248);
+    font-family: "Georgia", Times, "Times New Roman", serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
