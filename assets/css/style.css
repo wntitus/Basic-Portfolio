@@ -1,7 +1,7 @@
 body {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     color: #777777;
-    background-image: url("assets/images/light-grey-terrazzo.png");
+    background-image: url("../images/light-grey-terrazzo.png");
     background-repeat: repeat
 
     /* clear: both; */
@@ -78,4 +78,6 @@ nav {
     align-content: center;
     margin: auto;
     margin-top: 60px;
+    background-color: #ffffff;
+    border: 1px solid teal;
 }
