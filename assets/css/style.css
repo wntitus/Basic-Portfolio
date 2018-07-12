@@ -159,3 +159,12 @@ h2 {
     font-size: 20px;
     margin-top: 10px;
 }
+
+#portfolioBox {
+    width: 960px;
+    margin: auto;
+    background-color: #ffffff;
+    border: 1px solid rgb(201, 201, 201);
+    margin-top: 60px;
+    padding: 20px;
+}
