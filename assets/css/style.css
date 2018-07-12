@@ -20,6 +20,7 @@ nav {
     padding-left: 240px;
     padding-right: 240px;
     height: 25px;
+    position: relative;
 
 }
 
@@ -27,11 +28,19 @@ nav {
     font-family: "Georgia", Times, "Times New Roman", serif;
     color: rgb(248, 247, 248);
     background-color: rgb(0, 174, 167);
-    width: 150px;
+    width: fit-content;
     text-align: center;
     margin: auto;
     float: left;
     height: fit-content;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 35px;
+    position: absolute;
+    top: 0px;
+    
 }
 
 #navLinks {
