@@ -116,3 +116,20 @@ footer {
     padding-top: 20px;
     border-top: 10px solid rgb(0, 153, 147);
 }
+
+#contactBox {
+    width: 960px;
+    background-color: #ffffff;
+    align-content: center;
+    margin: auto;
+    border: 1px solid rgb(201, 201, 201);
+    border-radius: 2px;
+    margin-top: 60px;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
